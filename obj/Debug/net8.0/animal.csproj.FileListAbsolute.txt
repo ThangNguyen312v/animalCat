@@ -1,0 +1,14 @@
+E:\hoctap\animal\obj\Debug\net8.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\animal\obj\Debug\net8.0\animal.AssemblyInfoInputs.cache
+E:\hoctap\animal\obj\Debug\net8.0\animal.AssemblyInfo.cs
+E:\hoctap\animal\obj\Debug\net8.0\animal.csproj.CoreCompileInputs.cache
+E:\hoctap\animal\bin\Debug\net8.0\animal.exe
+E:\hoctap\animal\bin\Debug\net8.0\animal.deps.json
+E:\hoctap\animal\bin\Debug\net8.0\animal.runtimeconfig.json
+E:\hoctap\animal\bin\Debug\net8.0\animal.dll
+E:\hoctap\animal\bin\Debug\net8.0\animal.pdb
+E:\hoctap\animal\obj\Debug\net8.0\animal.dll
+E:\hoctap\animal\obj\Debug\net8.0\refint\animal.dll
+E:\hoctap\animal\obj\Debug\net8.0\animal.pdb
+E:\hoctap\animal\obj\Debug\net8.0\animal.genruntimeconfig.cache
+E:\hoctap\animal\obj\Debug\net8.0\ref\animal.dll
